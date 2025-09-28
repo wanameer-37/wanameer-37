@@ -11,7 +11,7 @@
 - 📱 Final Year Project (website + app integration)
 
 ## 📫 Connect with Me
-- GitHub: [yourusername](https://github.com/yourusername)  
+- GitHub: wanameer-37(https://github.com/wanameer-37)  
 - LinkedIn: [your profile link]  
 - Instagram: [@yourhandle]  
 
