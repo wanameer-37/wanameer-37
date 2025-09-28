@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Ameerudin
 
-<!--
-**wanameer-37/wanameer-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Diploma student working on web and app projects  
+- 🛠️ Learning HTML, CSS, JavaScript, and databases  
+- 💡 Interested in entrepreneurship & creative content  
 
-Here are some ideas to get you started:
+## 🏆 My Projects
+- 🍩 Golden Crust Bakery by Abang Wan  
+- 🎨 Trilogi Synergy (ToneWow, paintings, Red Velvet donuts)  
+- 📱 Final Year Project (website + app integration)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- GitHub: [yourusername](https://github.com/yourusername)  
+- LinkedIn: [your profile link]  
+- Instagram: [@yourhandle]  
+
+---
+⭐️ From [yourusername](https://github.com/yourusername)
