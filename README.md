@@ -12,7 +12,7 @@
 
 ## 📫 Connect with Me
 - GitHub: wanameer-37(https://github.com/wanameer-37)  
-- LinkedIn: [your profile link]  
+- LinkedIn: www.linkedin.com/in/wan-muhammad-ameerudin-663790418
 - Instagram: [@yourhandle]  
 
 ---
